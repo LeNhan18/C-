@@ -108,6 +108,11 @@ namespace Nhanlene
                             var hs = list.OrderByDescending(s => s.Age).First();
                             Console.WriteLine($"Học sinh có tuổi lớn nhất: Id: {hs.Id}, Name: {hs.Name}, Age: {hs.Age}");
                             break;
+                        case 7:
+                            var sx = list.OrderBy(s => s.Age).ToList();
+                            Console.WriteLine("Danh sách sau khi sắp xếp theo tuổi tăng dần:");
+                            sx.ForEach(s => Console.WriteLine($"Id: {s.Id}, Name: {s.Name}, Age: {s.Age}"));
+                            break;
 
                         case 0:
                             Console.WriteLine("Thoát chương trình.");
