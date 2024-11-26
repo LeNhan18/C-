@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\GiaoDien\GiaoDien\bin\Debug\GiaoDien.exe.config
+C:\Users\Admin\source\repos\GiaoDien\GiaoDien\bin\Debug\GiaoDien.exe
+C:\Users\Admin\source\repos\GiaoDien\GiaoDien\bin\Debug\GiaoDien.pdb
+C:\Users\Admin\source\repos\GiaoDien\GiaoDien\obj\Debug\GiaoDien.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\GiaoDien\GiaoDien\obj\Debug\GiaoDien.Properties.Resources.resources
+C:\Users\Admin\source\repos\GiaoDien\GiaoDien\obj\Debug\GiaoDien.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\GiaoDien\GiaoDien\obj\Debug\GiaoDien.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\GiaoDien\GiaoDien\obj\Debug\GiaoDien.exe
+C:\Users\Admin\source\repos\GiaoDien\GiaoDien\obj\Debug\GiaoDien.pdb
+C:\Users\Admin\source\repos\GiaoDien\GiaoDien\obj\Debug\GiaoDien.Form2.resources
